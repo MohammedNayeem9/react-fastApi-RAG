@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "PYTHONPATH=$(pwd) uvicorn app.main:app --reload"
+  },
+  "dependencies": {}
+}

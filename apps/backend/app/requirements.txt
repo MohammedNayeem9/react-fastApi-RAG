@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+alembic
+qdrant-client==1.9.0
+python-decouple==3.8
+openai==1.23.6
+langchain
+langchain-community
+langchain-openai
+bs4==0.0.2
+tiktoken==0.6.0
+websockets==12.0
+modal==0.62.197
